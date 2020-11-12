@@ -1,5 +1,6 @@
 # Create at your pACE
 ## Make every moment count
+![](Final_Logo.png)
 
 ### Feel | Connect | Create 
 
