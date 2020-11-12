@@ -34,8 +34,6 @@ ACE seeks to strategise your health and wellbeing activities by organising a wee
 
 Have you ever felt anxious about losing track of time? Or worried about losing your precious diary with records of all your memories? Fret not! Come onboard ACE for fuss-free journaling and quality documentation of your unique experiences whenever you are ready. Choose between public and private access to your personalised journals and start creating your story now!
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cb72e04b-8cd7-42f7-b39a-da4affda2bbd/deploy-status)](https://app.netlify.com/sites/devops-1311/deploys)
-
 #### Purgecss
 
 This plugin uses [gatsby-plugin-purgecss](https://www.gatsbyjs.org/packages/gatsby-plugin-purgecss/) and [bulma](https://bulma.io/). The bulma builds are usually ~170K but reduced 90% by purgecss.
