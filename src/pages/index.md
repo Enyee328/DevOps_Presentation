@@ -1,21 +1,22 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Create at your pACE
+image: /img/rainbow.jpg
+heading: "Feel | Connect | Create "
+subheading: Make every moment count
 mainpitch:
-  title: Why Kaldi
+  title: Why ACE
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    ACE is the community for everyone who believes that life should be worth
+    living to the fullest! Based on your mood and emotions, we recommend a whole
+    range of activities that are curated just for you. Just click and choose how
+    you want to connect and be sure to be greeted with extraordinary connections
+    that bring you from feeling like a 'zero' to a 'hero'! Start pacing your
+    journey with us and never feel wasted again. 
+description: "ACE is the ultimate space for anyone ready to explore new insights
+  and experience meaningful activities that will create interesting memories for
+  themselves. ACE also serves as a global platform for all to connect and share
+  their experiences anytime and anywhere. "
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,12 +46,12 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: What we Offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    ACE is the ultimate space for anyone ready to explore new insights and
+    experience meaningful activities that will create interesting memories for
+    themselves. ACE also serves as a global platform for all to connect and
+    share their experiences anytime and anywhere. 
 main:
   heading: Great coffee with no compromises
   description: >
