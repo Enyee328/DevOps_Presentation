@@ -13,6 +13,13 @@ ACE is the community for everyone who believes that life should be worth living 
 ### What we Offer
 ACE is the ultimate space for anyone ready to explore new insights and experience meaningful activities that will create interesting memories for themselves. ACE also serves as a global platform for all to connect and share their experiences anytime and anywhere. 
 
+#### Mood-based Activity Recommendations- NodeJS
+
+docker run -d -p 8080:8080 Enyee328/DevOps_Presentation
+
+curl -i http://localhost:8080/mood
+
+
 ### Our Values
 
 * Flexibility
